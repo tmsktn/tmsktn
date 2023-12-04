@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tmsktn aka [@tamas-3ap](https://github.com/tamas-3ap)
-- 👀 I’m interested in Java, spring-boot, GCP, AWS, Azure
+- 👀 I’m interested in Java, spring-boot, GCP, AWS, Azure, Python
 - 📫 How to reach me: https://twitter.com/tamasktn
 
 <!---
